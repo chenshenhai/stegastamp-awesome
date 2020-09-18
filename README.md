@@ -35,5 +35,9 @@ cd StegaStamp
 ```
 
 ```sh
+pip install tensorflow==1.13.1
 
+pip install -r requirements.txt
 ```
+
+
