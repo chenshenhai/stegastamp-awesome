@@ -24,7 +24,7 @@ source ./.zshrc
 ```
 
 ```sh
-export v=3.6.12; wget https://npm.taobao.org/mirrors/python/$v/Python-$v.tar.xz -P ~/.pyenv/cache/; pyenv install $v 
+pyenv install 3.6.12
 ```
 
 
